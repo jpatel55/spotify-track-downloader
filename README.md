@@ -10,7 +10,7 @@ A Python script to download audio (M4A format) from YouTube for a given Spotify 
 
 ## Prerequisites
 - Python 3.x
-- Required libraries: `pytubefix`, `beautifulsoup4`, `mutagen`, `youtubesearchpython`, `requests`
+- Required libraries: `pytubefix`, `beautifulsoup4`, `mutagen`, `youtube-search-python`, `requests`
 
 ## Usage
 - Install the required dependencies using the following command:  
