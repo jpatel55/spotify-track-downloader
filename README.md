@@ -1,6 +1,6 @@
-# Spotify To YouTube Downloader
+# Spotify Track Downloader
 
-A Python script to download audio from YouTube for a given Spotify track URL, complete with metadata.
+A Python script to download audio (M4A format) from YouTube for a given Spotify track URL, complete with metadata.
 
 ## Features
 - Validate Spotify track URLs.
@@ -13,7 +13,7 @@ A Python script to download audio from YouTube for a given Spotify track URL, co
 - Required libraries: `pytubefix`, `beautifulsoup4`, `mutagen`, `youtubesearchpython`, `requests`
 
 ## Usage
-- Install the required dependencies using the following command:
+- Install the required dependencies using the following command:  
   `pip install -r requirements.txt`
-- Run the script:
+- Run the script:  
   `python downloader.py`
