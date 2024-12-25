@@ -1,0 +1,5 @@
+pytubefix
+beautifulsoup4
+mutagen
+youtube-search-python
+requests
